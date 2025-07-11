@@ -1,9 +1,9 @@
 # 🔁 E-Learning Platform Analysis Project
 
 [![Python Version](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/zufran123/e-learning-platform-analysis.svg?style=social)](https://github.com/zufran123/e-learning-platform-analysis/stargazers)
-[![Forks](https://img.shields.io/github/forks/zufran123/e-learning-platform-analysis.svg?style=social)](https://github.com/zufran123/e-learning-platform-analysis/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/zufran123/e-learning-platform-analysis.svg)](https://github.com/zufran123/e-learning-platform-analysis/commits/main)
+[![GitHub forks](https://img.shields.io/github/forks/zufran123/e-learning-analysis?style=for-the-badge)](https://github.com/zufran123/e-learning-analysis/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/zufran123/e-learning-analysis?style=for-the-badge)](https://github.com/zufran123/e-learning-analysis/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/zufran123/e-learning-analysis?style=for-the-badge)](https://github.com/zufran123/e-learning-analysis/commits)
 
 ---
 
