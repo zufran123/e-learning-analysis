@@ -1,62 +1,31 @@
-# ---------------------------
-# Python Bytecode & Cache
-# ---------------------------
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*$py.class
 
-# ---------------------------
-# Virtual Environments
-# ---------------------------
+# Virtual environment
 venv/
-.venv/
 env/
 ENV/
-venv.bak/
-*.env
+.venv/
 
-# ---------------------------
-# Jupyter Notebook Checkpoints
-# ---------------------------
-.ipynb_checkpoints/
-
-# ---------------------------
-# VS Code & IDE Settings
-# ---------------------------
+# VS Code settings
 .vscode/
-.idea/
 
-# ---------------------------
-# Data Outputs (optional)
-# ---------------------------
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints
+
+# PDF reports and visual outputs
 *.pdf
 *.png
-*.jpg
-*.jpeg
-*.svg
 
-# ---------------------------
-# Database Files
-# ---------------------------
+# SQLite database file
 *.db
-*.sqlite3
 
-# ---------------------------
-# Build / Distribution
-# ---------------------------
-build/
-dist/
-*.egg-info/
-
-# ---------------------------
-# System Files
-# ---------------------------
+# System files
 .DS_Store
 Thumbs.db
 
-# ---------------------------
-# Logs / Temp
-# ---------------------------
-*.log
-*.bak
-*.tmp
+# Python distribution / packaging
+build/
+dist/
+*.egg-info/
