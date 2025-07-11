@@ -1,32 +1,62 @@
-# Byte-compiled / optimized / DLL files
+# ---------------------------
+# Python Bytecode & Cache
+# ---------------------------
 __pycache__/
 *.py[cod]
 *$py.class
 
-# Virtual environment
+# ---------------------------
+# Virtual Environments
+# ---------------------------
 venv/
+.venv/
 env/
 ENV/
-.venv/
+venv.bak/
+*.env
 
-# Jupyter Notebook checkpoints (if used)
-.ipynb_checkpoints
+# ---------------------------
+# Jupyter Notebook Checkpoints
+# ---------------------------
+.ipynb_checkpoints/
 
-# VS Code settings
+# ---------------------------
+# VS Code & IDE Settings
+# ---------------------------
 .vscode/
+.idea/
 
-# PDF reports and visual outputs
+# ---------------------------
+# Data Outputs (optional)
+# ---------------------------
 *.pdf
 *.png
+*.jpg
+*.jpeg
+*.svg
 
-# SQLite database file (optional: include if large or sensitive)
+# ---------------------------
+# Database Files
+# ---------------------------
 *.db
+*.sqlite3
 
-# System files
-.DS_Store
-Thumbs.db
-
-# Python distribution / packaging
+# ---------------------------
+# Build / Distribution
+# ---------------------------
 build/
 dist/
 *.egg-info/
+
+# ---------------------------
+# System Files
+# ---------------------------
+.DS_Store
+Thumbs.db
+
+# ---------------------------
+# Logs / Temp
+# ---------------------------
+*.log
+*.bak
+*.tmp
