@@ -4,6 +4,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/zufran123/e-learning-analysis?style=flat)](https://github.com/zufran123/e-learning-analysis/network/members)
 [![GitHub stars](https://img.shields.io/github/stars/zufran123/e-learning-analysis?style=flat)](https://github.com/zufran123/e-learning-analysis/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/zufran123/e-learning-analysis?style=flat)](https://github.com/zufran123/e-learning-analysis/commits)
+[![Data Source](https://img.shields.io/badge/Data-Kaggle-blue?style=flat)](https://www.kaggle.com/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zufran123.e-learning-analysis)
 
 
 ---
